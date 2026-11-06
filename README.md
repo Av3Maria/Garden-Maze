@@ -1,4 +1,4 @@
-# Butterfly Maze
+# Garden Maze
 
 **Guide your butterfly through the garden maze, rescue all four babies, and find the exit — without getting caught.**
 
@@ -23,7 +23,7 @@ A 2D maze game built in Processing (Java mode). Navigate winding garden paths, d
 
 1. Clone the repository:
    ```bash
-   git clone [repo-url]
+   git clone https://github.com/Av3Maria/Garden-Maze.git
    ```
 2. Open `VideoGame.pde` in Processing — open the sketch folder so all 7 tabs load
 3. Press the Run button (▶)
@@ -52,4 +52,4 @@ VideoGame/
 
 ## Author
 
-Created by **Maria Parfitt**, 2026.
+Created by **Maria Parfitt**, 2025.
